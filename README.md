@@ -1,2 +1,0 @@
-# youtubepageprops
-Created with CodeSandbox
